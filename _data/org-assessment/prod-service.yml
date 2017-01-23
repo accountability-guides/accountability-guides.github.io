@@ -1,0 +1,19 @@
+incentives:
+  What incentives does your product or service create for third parties? Are those incentives harmful or helpful?
+
+incentives-influence:
+  Which of those incentives can you change or influence?
+
+potential-abuse:
+  In what ways can your products or services be used to facilitate the creation
+  of databases of identifying information that may be used by the US government to target vulnerable populations?
+
+secondary-effects:
+  What are the secondary effects of your org's product and design decisions? What groups are impacted most by them?
+  (e.g. requiring real names, implementing design decisions that amplify confrontational behavior among users)
+
+data:
+  If you collect user data, what data do you collect, how long is stored, and who in your company can access it? Who is it shared with outside your company? 
+
+users:
+  Who are your users or customers? Do they include any groups at risk under the current US presidential administration?

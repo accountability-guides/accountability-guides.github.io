@@ -1,0 +1,13 @@
+board:
+  Who is on your organization's board of directors?
+  Have they taken any actions or made any public statements regarding the US presidential administration's threats?
+
+investors:
+  If your company is investor-funded, who are your investors?
+  Have they made a private or public statement in response to threats from the US presidential administration?
+
+met-admin:
+  Has any member of your organization's leadership met with the incoming US presidential administration?
+
+org-statement:
+  Has your organization made a public or private statement in response to threats from the US presidential administration?

@@ -1,1 +1,7 @@
+title: Accountability Guides
 theme: jekyll-theme-slate
+baseurl: / 
+collections:
+  organization-guides:
+    output: true
+
