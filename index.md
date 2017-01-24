@@ -3,7 +3,7 @@ title: Accountability guides
 layout: page
 ---
 
-If your work involves managing or processing data about people, use the guides on this site to develop a plan for holding yourself accountable to the [neveragain.tech pledge](http://neveragain.tech).
+If your work involves managing or processing data about people, use these guides to develop a plan for holding yourself accountable to the [neveragain.tech pledge](http://neveragain.tech).
 
 There are two kinds of guides on this site:
 
