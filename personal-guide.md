@@ -7,9 +7,9 @@ layout: page
 
 {{ site.data.general.using-personal-guide }}
 
-
 <hr />
 <br />
+
 *Fill this out for yourself. Since some answers may contain private or sensitive information, do not share them if you're not comfortable doing so.*
 
 ### Assess your situation
