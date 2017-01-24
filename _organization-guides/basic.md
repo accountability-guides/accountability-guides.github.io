@@ -3,30 +3,32 @@ title: Basic organization guide
 layout: page
 ---
 
-## Product/service assessment
+{{ site.data.general.using-org-guides }}
 
-* **{{ site.data.org-assessment.prod-service.users }}**
-* **{{ site.data.org-assessment.prod-service.potential-abuse }}**
-* **{{ site.data.org-assessment.prod-service.secondary-effects }}**
-* **{{ site.data.org-assessment.prod-service.incentives }}**
-* **{{ site.data.org-assessment.prod-service.incentives-influence }}**
+### Product/service assessment
 
-## Legal policy assessment
+* {{ site.data.org-assessment.prod-service.users }}
+* {{ site.data.org-assessment.prod-service.potential-abuse }}
+* {{ site.data.org-assessment.prod-service.secondary-effects }}
+* {{ site.data.org-assessment.prod-service.incentives }}
+* {{ site.data.org-assessment.prod-service.incentives-influence }}
 
-* **{{ site.data.org-assessment.legal-policy.read-tos }}**
-* **{{ site.data.org-assessment.legal-policy.info-request }}**
+### Legal policy assessment
 
-## Internal culture assessment
+* {{ site.data.org-assessment.legal-policy.read-tos }}
+* {{ site.data.org-assessment.legal-policy.info-request }}
 
-* **{{ site.data.org-assessment.internal-culture.reporting-violations }}**
-* **{{ site.data.org-assessment.internal-culture.moral-canaries }}**
-* **{{ site.data.org-assessment.internal-culture.decision-makers }}** 
-* **{{ site.data.org-assessment.internal-culture.unions }}**
+### Internal culture assessment
 
-## Leadership assessment
+* {{ site.data.org-assessment.internal-culture.reporting-violations }}
+* {{ site.data.org-assessment.internal-culture.moral-canaries }}
+* {{ site.data.org-assessment.internal-culture.decision-makers }}
+* {{ site.data.org-assessment.internal-culture.unions }}
 
-* **{{ site.data.org-assessment.leadership.org-statement }}**
-* **{{ site.data.org-assessment.leadership.met-admin }}**
-* **{{ site.data.org-assessment.leadership.investors }}**
-* **{{ site.data.org-assessment.leadership.board }}**
+### Leadership assessment
+
+* {{ site.data.org-assessment.leadership.org-statement }}
+* {{ site.data.org-assessment.leadership.met-admin }}
+* {{ site.data.org-assessment.leadership.investors }}
+* {{ site.data.org-assessment.leadership.board }}
 
