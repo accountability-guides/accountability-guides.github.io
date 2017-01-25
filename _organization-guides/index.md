@@ -3,7 +3,7 @@ title: Organization guides
 layout: page
 ---
 
-{{ site.data.general.about-org-guides }}
+{{ site.data.general.org-guides-name }} {{ site.data.general.about-org-guides }}
 
 <ul>
 {% for org_guide in site.organization-guides %}

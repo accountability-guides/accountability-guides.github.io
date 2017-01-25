@@ -1,14 +1,20 @@
-about-org-guides: |
-  **Organization guides** are designed to help you and your coworkers create a shared body of knowledge about crucial aspects of your organization's product design, legal policies, leadership, and culture so you can take meaningful action and make informed decisions in the face of difficult situations.
+org-guides-name: |
+  **Organization guides**
 
-about-org-guides-link: |
-  **[Organization guides](https://accountability-guides.github.io/organization-guides/)** are designed to help you and your coworkers create a shared body of knowledge about crucial aspects of your organization's product design, legal policies, leadership, and culture so you can take meaningful action and make informed decisions in the face of difficult situations.
+org-guides-name-link: |
+  **[Organization guides](https://accountability-guides.github.io/organization-guides/)**
+
+about-org-guides: |
+  are designed to help you and your coworkers create a shared body of knowledge about crucial aspects of your organization's product design, legal policies, leadership, and culture so you can take meaningful action and make informed decisions in the face of difficult situations.
+
+personal-guide-name: |
+  The **personal guide**
+
+personal-guide-name-link: |
+  The **[personal guide](https://accountability-guides.github.io/personal-guide/)**
 
 about-personal-guide: |
-  The **personal guide** is designed to help you evaluate your current circumstances, consider situations that may come up for you and how you will handle them, and make yourself accountable to others.
-
-about-personal-guide-link: |
-  The **[personal guide](https://accountability-guides.github.io/personal-guide)** is designed to help you evaluate your current circumstances, consider situations that may come up for you and how you will handle them, and make yourself accountable to others.
+  is designed to help you evaluate your current circumstances, consider situations that may come up for you and how you will handle them, and make yourself accountable to others.
 
 using-org-guides: |
   1. Meet with a group of trusted coworkers who share your concerns. Some have chosen to make their names public on [neveragain.tech](http://neveragain.tech).

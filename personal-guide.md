@@ -3,7 +3,7 @@ title: Personal guide
 layout: page
 ---
 
-{{ site.data.general.about-personal-guide }}
+{{ site.data.general.personal-guide-name }} {{ site.data.general.about-personal-guide }}
 
 {{ site.data.general.using-personal-guide }}
 
