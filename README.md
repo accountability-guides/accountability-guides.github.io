@@ -6,17 +6,18 @@ There are two steps:
 
 ## Work through the organization guide
 
-**[Organization guides](https://accountability-guides.github.io/organization-guides/)** are designed to help you and your coworkers create a shared body of knowledge about crucial aspects of your organization's product design, legal policies, leadership, and culture so you can take meaningful actions and make informed decisions in the face of complex or ambiguous circumstances.
+**[Organization guides](https://accountability-guides.github.io/organization-guides/) are designed to help you and your colleagues create a shared body of knowledge about crucial aspects of your organization’s product design, legal policies, leadership, and culture so you can take meaningful action and make informed decisions when faced with difficult situations.
 
-1. Find the organization guide that most closely matches your organization.
-2. Gather a group of trusted coworkers to work through the guide together.
-3. Copy/paste the guide into a [Riseup Etherpad](https://pad.riseup.net) or other safe space for collaborative writing.
-4. Work through the questions together.
+1. Meet with a group of trusted colleagues who share your concerns. Some have chosen to make their names public on [neveragain.tech](http://neveragain.tech).
+2. Find the organization guide that most closely matches your group's needs.
+3. Copy the questions from the guide into a safe space for collaborative writing. We recommend the [Riseup.net Etherpad](https://pad.riseup.net), since they do not store IP addresses, require https, and destroy pads after 30 days of inactivity.
+4. Discuss the questions and write down answers in your shared document.
+
 
 ## Work through the personal guide
 
-The **[personal guide](https://accountability-guides.github.io/personal-guide)** is designed to help you assess your personal situation, think through what situations are likely to come up for you and how you will handle them, and make yourself accountable to others.
+The **[personal guide](https://accountability-guides.github.io/personal-guide)** is designed to help you evaluate your current circumstances, consider situations that may come up for you and how you will handle them, and make yourself accountable to others.
 
-1. Copy/paste the personal guide into a [Riseup Etherpad](https://pad.riseup.net) or text editor on your computer.
-2. Work through the personal assessment and scenario sections.
-3. Print your guide so trusted coworkers can sign the last section ("Find coworkers to hold you accountable").
+1. Copy the questions below into a text editor on your computer or the web. For a web editor, we recommend the [Riseup.net Etherpad](https://pad.riseup.net), since they do not store IP addresses, require https, and destroy pads after 30 days of inactivity.
+2. Answer the questions in the assessment, possible outcomes, and planning sections.
+3. Print your guide so trusted colleagues can sign the last section ("Ask colleagues to hold you accountable").
