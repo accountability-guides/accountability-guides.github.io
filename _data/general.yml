@@ -11,7 +11,7 @@ personal-guide-name: |
   The **personal guide**
 
 personal-guide-name-link: |
-  The **[personal guide](https://accountability-guides.github.io/personal-guide/)**
+  The **[personal guide](https://accountability-guides.github.io/personal-guide)**
 
 about-personal-guide: |
   is designed to help you evaluate your current circumstances, consider situations that may come up for you and how you will handle them, and make yourself accountable to others.
@@ -25,3 +25,6 @@ using-personal-guide: |
   1. Copy the questions below into a text editor on your computer or the web. For a web editor, we recommend the [Riseup.net Etherpad](https://pad.riseup.net), since they do not store IP addresses, require https, and destroy pads after 30 days of inactivity.
   2. Answer the questions in the assessment, possible outcomes, and planning sections.
   3. Print your guide so trusted colleagues can sign the last section ("Ask colleagues to hold you accountable").
+
+github-contributing: |
+  https://github.com/accountability-guides/accountability-guides.github.io/blob/master/CONTRIBUTING.md
