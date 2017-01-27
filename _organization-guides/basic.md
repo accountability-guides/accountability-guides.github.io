@@ -20,6 +20,7 @@ layout: page
 
 * {{ site.data.org-assessment.legal-policy.read-tos }}
 * {{ site.data.org-assessment.legal-policy.info-request }}
+* {{ site.data.org-assessment.legal-policy.privacy-shield }}
 
 ### Internal culture assessment
 
@@ -34,4 +35,3 @@ layout: page
 * {{ site.data.org-assessment.leadership.met-admin }}
 * {{ site.data.org-assessment.leadership.investors }}
 * {{ site.data.org-assessment.leadership.board }}
-
