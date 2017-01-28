@@ -1,5 +1,7 @@
 # Contributing to this repo
 
+Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
+
 Our goal is to host a variety of [organization guides](https://accountability-guides.github.io/organization-guides/) that help  members of different types of tech organizations (e.g. those that are in highly regulated spaces, or work with US government data).
 
 ## To suggest an organization guide
